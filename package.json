@@ -1,0 +1,31 @@
+{
+  "name": "portal_noticias",
+  "version": "1.0.0",
+  "description": "Site de noticias",
+  "main": "noticias.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lcsales98/curso-node.git"
+  },
+  "keywords": [
+    "nodejs"
+  ],
+  "author": "Lucas Sales",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/lcsales98/curso-node/issues"
+  },
+  "homepage": "https://github.com/lcsales98/curso-node#readme",
+  "dependencies": {
+    "body-parser": "^1.18.3",
+    "consign": "^0.1.6",
+    "ejs": "^2.6.1",
+    "express": "^4.16.3",
+    "express-validator": "^5.2.0",
+    "moment": "^2.22.2",
+    "mysql": "^2.15.0"
+  }
+}
